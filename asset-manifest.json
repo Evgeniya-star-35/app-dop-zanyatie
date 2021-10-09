@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-dop-zanyatie/static/css/main.f73a8c30.chunk.css",
+    "main.js": "/app-dop-zanyatie/static/js/main.3aa27603.chunk.js",
+    "main.js.map": "/app-dop-zanyatie/static/js/main.3aa27603.chunk.js.map",
+    "runtime-main.js": "/app-dop-zanyatie/static/js/runtime-main.0186dafd.js",
+    "runtime-main.js.map": "/app-dop-zanyatie/static/js/runtime-main.0186dafd.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/app-dop-zanyatie/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.5f3f7fad.chunk.js": "/app-dop-zanyatie/static/js/2.5f3f7fad.chunk.js",
+    "static/js/2.5f3f7fad.chunk.js.map": "/app-dop-zanyatie/static/js/2.5f3f7fad.chunk.js.map",
+    "index.html": "/app-dop-zanyatie/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/app-dop-zanyatie/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.f73a8c30.chunk.css.map": "/app-dop-zanyatie/static/css/main.f73a8c30.chunk.css.map",
+    "static/js/2.5f3f7fad.chunk.js.LICENSE.txt": "/app-dop-zanyatie/static/js/2.5f3f7fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0186dafd.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.5f3f7fad.chunk.js",
+    "static/css/main.f73a8c30.chunk.css",
+    "static/js/main.3aa27603.chunk.js"
+  ]
+}
